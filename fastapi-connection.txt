@@ -1,2 +1,2 @@
-uvicorn main:app --reload
+uvicorn dronekit-data:app --reload
 
