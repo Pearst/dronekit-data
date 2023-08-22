@@ -1,0 +1,96 @@
+Autopilot Firmware version: APM:Copter-4.0.1
+Major version number: 4
+Minor version number: 0
+Patch version number: 1
+Release type: rc
+Release version: 0
+Stable release?: True
+Autopilot capabilities
+Supports MISSION_FLOAT message type: True
+Supports PARAM_FLOAT message type: True
+Supports MISSION_INT message type: True
+Supports COMMAND_INT message type: True
+Supports PARAM_UNION message type: False
+Supports ftp for file transfers: True
+Supports commanding attitude offboard: True
+Supports commanding position and velocity targets in local NED frame: True
+Supports set position + velocity targets in global scaled integers: True
+Supports terrain protocol / data handling: True
+Supports direct actuator control: False
+Supports the flight termination command: True
+Supports mission_float message type: True
+Supports onboard compass calibration: True
+Global Location: LocationGlobal:lat=0.0,lon=0.0,alt=None
+Global Location (relative altitude): LocationGlobalRelative:lat=0.0,lon=0.0,alt=0.0
+Local Location: LocationLocal:north=None,east=None,down=None
+Attitude: Attitude:pitch=0.0,yaw=0.0,roll=0.0
+Velocity: [0.0, 0.0, 0.0]
+GPS: GPSInfo:fix=0,num_sat=0
+Gimbal status: Gimbal: pitch=None, roll=None, yaw=None
+Battery: None
+EKF OK?: False
+Last Heartbeat: 0.375
+Rangefinder: Rangefinder: distance=None, voltage=None
+Rangefinder distance: None
+Rangefinder voltage: None
+Heading: 0
+Is Armable?: False
+System status: ACTIVE
+Groundspeed: 0.0
+Airspeed: 0.0
+Mode: STABILIZE
+Attitude changed to Attitude:pitch=0.0,yaw=0.0,roll=0.0
+Attitude changed to Attitude:pitch=0.0,yaw=0.0,roll=0.0
+Attitude changed to Attitude:pitch=0.0,yaw=0.0,roll=0.0
+Remove Vehicle.attitude observer
+(last_heartbeat): 0.625
+(attitude): Attitude:pitch=0.0,yaw=0.0,roll=0.0
+(location.global_relative_frame): LocationGlobalRelative:lat=0.0,lon=0.0,alt=0.0
+(location): <dronekit.Locations object at 0x000001CB7FC0B310>
+(velocity): [0.0, 0.0, 0.0]
+(heading): 0
+(airspeed): 0.0
+(groundspeed): 0.0
+(channels): {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0, '7': 0, '8': 0}
+(last_heartbeat): 0.6880000000001019
+(last_heartbeat): 0.0
+(last_heartbeat): 0.06300000000010186
+(last_heartbeat): 0.125
+(attitude): Attitude:pitch=0.0,yaw=0.0,roll=0.0
+(location.global_relative_frame): LocationGlobalRelative:lat=0.0,lon=0.0,alt=0.0
+(location): <dronekit.Locations object at 0x000001CB7FC0B310>
+(velocity): [0.0, 0.0, 0.0]
+(heading): 0
+(airspeed): 0.0
+(groundspeed): 0.0
+(channels): {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0, '7': 0, '8': 0}
+(last_heartbeat): 0.18800000000010186
+(last_heartbeat): 0.0
+(last_heartbeat): 0.06300000000010186
+(last_heartbeat): 0.125
+(attitude): Attitude:pitch=0.0,yaw=0.0,roll=0.0
+(location.global_relative_frame): LocationGlobalRelative:lat=0.0,lon=0.0,alt=0.0
+(location): <dronekit.Locations object at 0x000001CB7FC0B310>
+(velocity): [0.0, 0.0, 0.0]
+(heading): 0
+(airspeed): 0.0
+(groundspeed): 0.0
+(channels): {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0, '7': 0, '8': 0}
+(last_heartbeat): 0.18800000000010186
+(last_heartbeat): 0.25
+(last_heartbeat): 0.31300000000010186
+(last_heartbeat): 0.375
+(attitude): Attitude:pitch=0.0,yaw=0.0,roll=0.0
+(location.global_relative_frame): LocationGlobalRelative:lat=0.0,lon=0.0,alt=0.0
+(location): <dronekit.Locations object at 0x000001CB7FC0B310>
+(velocity): [0.0, 0.0, 0.0]
+(heading): 0
+(airspeed): 0.0
+(groundspeed): 0.0
+(channels): {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0, '7': 0, '8': 0}
+(gps_0): GPSInfo:fix=0,num_sat=0
+(last_heartbeat): 0.43800000000010186
+(last_heartbeat): 0.5
+(last_heartbeat): 0.5630000000001019
+Remove Vehicle attribute observer
+Completed
