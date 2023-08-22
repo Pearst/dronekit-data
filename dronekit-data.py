@@ -26,7 +26,7 @@ for x in f:
         pass
 
 
-@app.get("/data")
+@app.get("/")
 async def dronekit_data():
     return list
 
